@@ -1,1 +1,1 @@
-# blog
+# namanalgo.github.io
